@@ -1,0 +1,2 @@
+# check_primary_key
+检查阿里云mysql数据库表中是否有主键
